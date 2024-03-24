@@ -1,0 +1,11 @@
+**Database Name: payroll_s**
+
+**Developed by Sathvik Moolya,Shreesha Nayak,Shashank RM,Sathvik Kulal**
+
+**Login Details**
+
+Username: ethan 
+Password: password
+
+Username: admin
+Password: admin
